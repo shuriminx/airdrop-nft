@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Gallery",
+  "sourceName": "contracts/Gallery.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b506001600055603f8060226000396000f3fe6080604052600080fdfea264697066735822122091d3f7aedd325b0be5c99bbb872d9099d37322dfea6eb5d4687436b8460a2bff64736f6c63430008040033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122091d3f7aedd325b0be5c99bbb872d9099d37322dfea6eb5d4687436b8460a2bff64736f6c63430008040033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
