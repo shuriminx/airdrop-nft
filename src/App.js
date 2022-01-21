@@ -1,6 +1,6 @@
 import './App.css';
 import { useWeb3React } from "@web3-react/core";
-import { injected } from "./wallet/Connector";
+import { injected, network } from "./wallet/Connector";
 
 import logo from './logo.svg';
 import './App.css';
